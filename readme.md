@@ -1,7 +1,3 @@
-Certainly! Below is an example of a README file for a Python project that uses OpenAI and Lang Chain. Additionally, it includes instructions on adding the OpenAI key to the .env file.
-
----
-
 # Project Name
 
 ## Description
