@@ -63,7 +63,3 @@ List the major dependencies of your project.
 ## Contact
 
 yagitsahil@gmail.com
-
----
-
-Feel free to customize the sections based on your project's specific details. This template provides a basic structure for a README file, including sections for installation, usage, configuration, dependencies, contributing, license, acknowledgments, and contact information.
