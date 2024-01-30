@@ -1,8 +1,7 @@
-# Project Name
+# This project is in progress
 
 ## Description
-
-Briefly describe your project here. Mention that it utilizes OpenAI and Lang Chain for specific functionalities.
+In this project i'm using langchain ans open-ai api just playing with this and trying to learn.
 
 ## Installation
 
@@ -23,14 +22,6 @@ Briefly describe your project here. Mention that it utilizes OpenAI and Lang Cha
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-Describe how to use your project. Provide examples and instructions.
-
-```python
-# Add code snippets or examples here
-```
 
 ### Configuration
 
